@@ -1,0 +1,138 @@
+Title: Amar Shohor
+Clean Hash: a3940b47c42f7a94f9b308107de163e69edd3d81a4d3b6ac1d1e2962177fcd0d
+Raw Hash: a0adc58b9e730c187ff4c1c306669eaf49ab5e44f08c7f1df559b504fd2ce884
+Date: 2026-05-10T04:04:42.549339
+Version: 1
+----------------------------------------
+[RAW LYRICS]
+[Style: Melodic psychedelic hard rock, mid-tempo 90 BPM, blues fusion, raw powerful gritty energy, soul-touching vocals, distorted gritty blues guitar riffs, expressive lead solos with bends and slides, blues scale phrasing, warm overdriven bass, punchy acoustic drum kit, straight backbeat no shuffle, punchy snare and deep kick, dynamic drum fills, driving bass groove, intense rhythmic energy, anthemic stadium vocals, raspy emotional male vocal, smooth powerful female vocal, call and response duet, rich harmonies, hook-driven soaring chorus, high-pitched power tenor, wide stereo guitars, clean ambient guitar layers, centered vocals, plate reverb, delay throws, cinematic synths, subtle Hammond organ, atmospheric pads, lush strings, cinematic build-ups, tension and release, analog warmth saturation, crisp modern rock production, modern alt-rock style, raw soulful energy, clear Western instrumentation]
+
+[Hook 1]
+[Male]
+রাতের আঁধারে এই শহর ঘুমায়
+অচেনা এক ঘোরে মন ভেসে যায়
+বুকের গভীরে এক শূন্যতা ডাকে
+আমার এ গান শুধু খোঁজে তোমাকে
+
+[Hook 2]
+[Female]
+স্মৃতির পাতায় আঁকা তোমারই ছবি
+তুমিই তো আমার এই হৃদয়ের কবি
+একা একা এই রাত কাটে না যে আর
+ফিরে এসো তুমি এই বুকেতে আবার
+
+[Verse 1]
+[Male]
+নিঝুম এ শহরে আমি একাকী পথিক
+তোমাকে ভেবে ভেবে কাটে চারদিক
+ধুলো জমা রাস্তায় তোমারই তো ছাপ
+একা এই শহরে বাড়ে অনুতাপ
+
+[Pre-Chorus 1]
+[Female]
+কেন আজ এত বেশি লাগছে যে একা
+কবে পাবো আমি ওই ছায়াটার দেখা
+অচেনা এ হাওয়াতে তোমারই তো ঘ্রাণ
+তুমি যে আমার এই বেঁচে থাকা প্রাণ
+
+[Chorus]
+[Male]
+আমার শহর আজ তোমারই নামে
+অজস্র রূপকথা এই এক খামে
+আমার আকাশ জুড়ে তোমারই আলো
+তোমাকেই শুধু আমি বেসেছি যে ভালো
+
+[Verse 2]
+[Female]
+অদেখা সে স্বপ্নে তোমাকেই খুঁজি
+চোখ মেলে আবার আমি তোমাতেই বুজি
+অচেনা এ শহরে আমি যে অচিন
+তোমাকে ছাড়া এই জীবন বিলীন
+
+[Pre-Chorus 2]
+[Male]
+মাতাল এ হাওয়া আজ করে ডাকাডাকি
+তোমাকে ছাড়া আমি কীভাবে বা থাকি
+অচেনা এ নেশায় আমি যে পাগল
+ভেঙে দেব আজ এই দূরত্বের শিকল
+
+[Chorus]
+[Female]
+আমার শহর আজ তোমারই নামে
+অজস্র রূপকথা এই এক খামে
+আমার আকাশ জুড়ে তোমারই আলো
+তোমাকেই শুধু আমি বেসেছি যে ভালো
+
+[Verse 3]
+[Male]
+অচেনা এ অভিমানে কত রাত জাগি
+বলো না কী করে আমি তোমাকেই মাগি
+ভুলগুলো সব আজ ধুয়ে মুছে যাক
+অভিমানী এই মন তোমাকেই ডাক
+
+[Chorus]
+[Male]
+আমার শহর আজ তোমারই নামে
+অজস্র রূপকথা এই এক খামে
+আমার আকাশ জুড়ে তোমারই আলো
+তোমাকেই শুধু আমি বেসেছি যে ভালো
+
+[Bridge]
+[Male]
+Lost in the rhythm where the bodies ignite
+Pulling closer in the shadows, Saeed owns the night (Saeed... Saeed...)
+
+[Chorus]
+[Female]
+আমার শহর আজ তোমারই নামে
+অজস্র রূপকথা এই এক খামে
+আমার আকাশ জুড়ে তোমারই আলো
+তোমাকেই শুধু আমি বেসেছি যে ভালো
+--------------------
+[CLEAN LYRICS]
+রাতের আঁধারে এই শহর ঘুমায়
+অচেনা এক ঘোরে মন ভেসে যায়
+বুকের গভীরে এক শূন্যতা ডাকে
+আমার এ গান শুধু খোঁজে তোমাকে
+স্মৃতির পাতায় আঁকা তোমারই ছবি
+তুমিই তো আমার এই হৃদয়ের কবি
+একা একা এই রাত কাটে না যে আর
+ফিরে এসো তুমি এই বুকেতে আবার
+নিঝুম এ শহরে আমি একাকী পথিক
+তোমাকে ভেবে ভেবে কাটে চারদিক
+ধুলো জমা রাস্তায় তোমারই তো ছাপ
+একা এই শহরে বাড়ে অনুতাপ
+কেন আজ এত বেশি লাগছে যে একা
+কবে পাবো আমি ওই ছায়াটার দেখা
+অচেনা এ হাওয়াতে তোমারই তো ঘ্রাণ
+তুমি যে আমার এই বেঁচে থাকা প্রাণ
+আমার শহর আজ তোমারই নামে
+অজস্র রূপকথা এই এক খামে
+আমার আকাশ জুড়ে তোমারই আলো
+তোমাকেই শুধু আমি বেসেছি যে ভালো
+অদেখা সে স্বপ্নে তোমাকেই খুঁজি
+চোখ মেলে আবার আমি তোমাতেই বুজি
+অচেনা এ শহরে আমি যে অচিন
+তোমাকে ছাড়া এই জীবন বিলীন
+মাতাল এ হাওয়া আজ করে ডাকাডাকি
+তোমাকে ছাড়া আমি কীভাবে বা থাকি
+অচেনা এ নেশায় আমি যে পাগল
+ভেঙে দেব আজ এই দূরত্বের শিকল
+আমার শহর আজ তোমারই নামে
+অজস্র রূপকথা এই এক খামে
+আমার আকাশ জুড়ে তোমারই আলো
+তোমাকেই শুধু আমি বেসেছি যে ভালো
+অচেনা এ অভিমানে কত রাত জাগি
+বলো না কী করে আমি তোমাকেই মাগি
+ভুলগুলো সব আজ ধুয়ে মুছে যাক
+অভিমানী এই মন তোমাকেই ডাক
+আমার শহর আজ তোমারই নামে
+অজস্র রূপকথা এই এক খামে
+আমার আকাশ জুড়ে তোমারই আলো
+তোমাকেই শুধু আমি বেসেছি যে ভালো
+Lost in the rhythm where the bodies ignite
+Pulling closer in the shadows, Sayed owns the night.. Sayed... Sayed.....
+আমার শহর আজ তোমারই নামে
+অজস্র রূপকথা এই এক খামে
+আমার আকাশ জুড়ে তোমারই আলো
+তোমাকেই শুধু আমি বেসেছি যে ভালো

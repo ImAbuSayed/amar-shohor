@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Amar Shohor
+
+This log tracks the cryptographic history and versioning for the song **Amar Shohor** (amar-shohor).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-10T04:04:42.549339 | `v1` | `a3940b47c42f7a94f9b308107de163e69edd3d81a4d3b6ac1d1e2962177fcd0d` | `a0adc58b9e730c187ff4c1c306669eaf49ab5e44f08c7f1df559b504fd2ce884` | `2026-05-10_amar-shohor-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
