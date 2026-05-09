@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/amar-shohor/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Amar Shohor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amar-shohor/) |
+| **Get License** | [Request Licensing for Amar Shohor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amar-shohor/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> রাতের আঁধারে এই শহর ঘুমায়
+> অচেনা এক ঘোরে মন ভেসে যায়
+> বুকের গভীরে এক শূন্যতা ডাকে
+> আমার এ গান শুধু খোঁজে তোমাকে
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
